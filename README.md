@@ -2,8 +2,6 @@
 
 **Sistem Informasi Akademik Perguruan Tinggi** / **SIAKAD - PT** adalah aplikasi pengolahan data akademik perguruan tinggi berbasis web dimana data yang dikelolah mulai dari data kemahasiswaan, data tenaga pedidik dan data akademik lainnya. Aplikasi ini menggunakan framework [codeigniter](https://codeigniter.com) dan beberapa template untuk bagian frontend nya.
 
-![SIAKAD - PT](public/assets/templates/adminlte/dist/img/default_set.png)
-
 
 # Instalasi
 
