@@ -4,10 +4,10 @@
 
 		/*Server Config*/
 		var $_site_url            = 'http://localhost/';
-		var $_sub_domain          = 'siakad-uncp/public';
+		var $_sub_domain          = 'simple_siakad/public';
 		var $_document_root       = __DIR__;
 		var $_app_environment     = 'Development';
-		var $_site_name           = 'siakad-uncp.com';
+		var $_site_name           = 'siakad-uniba.com';
 
 		/*Web Assets Path*/
 		var $_plugin_path         = 'assets/plugins/';
@@ -38,7 +38,7 @@
 		/*Web Detail Config*/
 		var $_app_name;
 		var $_app_version         = '1.7 Beta';
-		var $_dev_name            = 'Muhammad Dicky Hidayat Latif';
+		var $_dev_name            = 'Moh Nur Hakim';
 		var $_web_name            = 'Sistem Informasi Akademik';
 		var $_pt_name             = 'Perguruan Tinggi';
 		var $_web_icon            = 'pt-icon-profile.png';
